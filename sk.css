@@ -1,0 +1,88 @@
+.header{
+  height:120px;
+  width:100%;
+  background-color:green;
+}
+.logobox{
+  height:100%;
+  width:10%;
+  background-color:snow;
+  float:left;
+}
+.logo{
+  height:100%;
+  width:100%;
+}
+.titlebox{
+  height:100%;
+  width:90%;
+  background-color:darkred;
+  float:right;  
+}
+h1.t{
+  font-size:50px;
+  text-align: center;
+}
+.body{
+  height:1470px;
+  width:100%;
+  
+}
+.map{
+  height:93.2%;
+  width:240px;
+  background-color:snow;
+  float:left;
+}
+.main{
+  height:93.2%;
+  width:724px;
+  float:right;
+}
+ul{
+  list-style-type: none; 
+  width: 200px;
+  background-color: #DDDDDD;
+}
+li a{
+  display: block;  
+  text-decoration: none;
+  color: #000000;
+  padding: 8px 16px;
+}
+li a:hover{
+  background-color: #555;
+  color: white;
+}
+.mappic{
+  width:100%;
+  height:160px;
+}
+.mappic2{
+  width:100%;
+  height:200px;
+}
+.m1{
+  height:70%;
+  width:100%;
+  
+}
+.m2{
+  height:30%;
+  width:100%;
+  
+}
+.foot{
+  height:100px;
+  width:100%;
+  background-color:grey;
+}
+.call{
+  font-size:20px;
+  text-align: center;
+  color:white; 
+}
+.txtpic{
+  height:13%;
+  width:100%;
+}
